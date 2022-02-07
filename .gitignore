@@ -1,4 +1,6 @@
-ansible
+ansible/files
+ansible/roles
+ansible/templates
 terraform
 client/node_modules
 server/node_modules
